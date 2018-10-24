@@ -1,0 +1,44 @@
+﻿<Window x:Class="FileDialog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Reading and Saving Files" Width="600" Height="400" Background="#f0f0f2" >
+    
+    <Window.Resources>
+        <Style TargetType="StackPanel" >
+            <Setter Property="Margin" Value="0 10 0 10" />
+        </Style>
+        <Style x:Key="MarginRight" TargetType="Control" >
+            <Setter Property="Margin" Value="0 0 20 0" />
+        </Style>
+        <Style x:Key="DirectoryTbStyle" BasedOn="{StaticResource MarginRight}" TargetType="TextBox">
+            <Setter Property="Width" Value="250" />
+        </Style>
+        <Style x:Key="FileTbStyle" BasedOn="{StaticResource MarginRight}" TargetType="TextBox">
+            <Setter Property="Width" Value="120" />
+        </Style>
+    </Window.Resources>    
+    
+    <DockPanel Margin="25 15 ">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" >
+            <Button  Content="Select File" Name="SelectFileButton" 
+                     Style="{StaticResource MarginRight}" Click="SelectFileButton_Click" />
+            <Button Content="Save File" Name="saveFileButton" 
+                     Style="{StaticResource MarginRight}" Click="saveFileButton_Click" />
+            <Button Content="Clear" Name="ClearButton" 
+                    Style="{StaticResource MarginRight}" Click="ClearButton_Click" />
+        </StackPanel>
+        
+        <Label DockPanel.Dock="Top" Content="File Content:" />
+        
+        <Label DockPanel.Dock="Bottom" Name="StatusLb" Content="" />
+
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" >
+            <Label Content="Directory: " />
+            <TextBox Name="DirectoryTb" Style="{StaticResource DirectoryTbStyle}" IsReadOnly="True" />
+            <Label Content="File: " />
+            <TextBox Name="FileTb"  Style="{StaticResource FileTbStyle}" IsReadOnly="True" />
+        </StackPanel>  
+
+        <TextBox Name="ContentTb" AcceptsReturn="True" />
+    </DockPanel>
+</Window>

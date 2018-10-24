@@ -1,0 +1,27 @@
+Pyramid of size 0
+
+Pyramid of size 1
+X
+
+Pyramid of size 2
+ X
+XXX
+
+Pyramid of size 3
+  X
+ XXX
+XXXXX
+
+Pyramid of size 4
+   X
+  XXX
+ XXXXX
+XXXXXXX
+
+Pyramid of size 5
+    X
+   XXX
+  XXXXX
+ XXXXXXX
+XXXXXXXXX
+

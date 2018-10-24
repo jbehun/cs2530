@@ -1,0 +1,41 @@
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe.config
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.pdb
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\MainWindow.baml
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\MainWindow.g.cs
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\App.g.cs
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\AssignmentPigLatin_MarkupCompile.cache
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.g.resources
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.Properties.Resources.resources
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.csproj.GenerateResource.Cache
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.exe
+C:\Users\mposch\SkyDrive\CSIS-2530 Spring 2014\Assignment\A06 Pig Latin\AssignmentPigLatin\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\MainWindow.baml
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\App.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin_MarkupCompile.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.g.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.Properties.Resources.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.csproj.GenerateResource.Cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\bin\Debug\AssignmentPigLatin.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\MainWindow.baml
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\App.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin_MarkupCompile.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.g.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.Properties.Resources.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\AssignmentPigLatin\obj\Debug\AssignmentPigLatin.csproj.GenerateResource.Cache

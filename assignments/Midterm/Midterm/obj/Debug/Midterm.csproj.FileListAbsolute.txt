@@ -1,0 +1,6 @@
+c:\users\justin\documents\visual studio 2013\Projects\Midterm\Midterm\bin\Debug\Midterm.exe.config
+c:\users\justin\documents\visual studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2013\Projects\Midterm\Midterm\bin\Debug\Midterm.exe
+c:\users\justin\documents\visual studio 2013\Projects\Midterm\Midterm\bin\Debug\Midterm.pdb
+c:\users\justin\documents\visual studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.exe
+c:\users\justin\documents\visual studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.pdb

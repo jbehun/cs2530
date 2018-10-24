@@ -1,0 +1,38 @@
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\demos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject.exe
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject.pdb
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\MainWindow.baml
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\MainWindow.g.cs
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\App.g.cs
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject.g.resources
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\bin\Debug\FinalProject.exe
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\bin\Debug\FinalProject.pdb
+\\smb\student$\E_G\agoodwil\My Documents\Visual Studio 2013\CS2530\Final Project\FinalProject\bin\Debug\EditedFootbalStats.csv
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\FinalProject\FinalProject\bin\Debug\EditedFootbalStats.csv

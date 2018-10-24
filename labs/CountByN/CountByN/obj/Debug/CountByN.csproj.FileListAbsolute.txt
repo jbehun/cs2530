@@ -1,0 +1,15 @@
+H:\Desktop\CS2530\CountByN\CountByN\bin\Debug\CountByN.exe.config
+H:\Desktop\CS2530\CountByN\CountByN\obj\Debug\CountByN.csprojResolveAssemblyReference.cache
+H:\Desktop\CS2530\CountByN\CountByN\bin\Debug\CountByN.exe
+H:\Desktop\CS2530\CountByN\CountByN\bin\Debug\CountByN.pdb
+H:\Desktop\CS2530\CountByN\CountByN\obj\Debug\CountByN.exe
+H:\Desktop\CS2530\CountByN\CountByN\obj\Debug\CountByN.pdb
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\CountByN\CountByN\bin\Debug\CountByN.exe.config
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\CountByN\CountByN\obj\Debug\CountByN.exe
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\CountByN\CountByN\obj\Debug\CountByN.pdb
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\CountByN\CountByN\bin\Debug\CountByN.exe
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\CountByN\CountByN\bin\Debug\CountByN.pdb
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\CountByN\CountByN\obj\Debug\CountByN.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\labs\CountByN\CountByN\bin\Debug\CountByN.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\labs\CountByN\CountByN\obj\Debug\CountByN.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\labs\CountByN\CountByN\obj\Debug\CountByN.pdb

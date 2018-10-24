@@ -1,0 +1,24 @@
+H:\Desktop\CS2530\Card\Card\bin\Debug\Card.exe.config
+H:\Desktop\CS2530\Card\Card\bin\Debug\Card.exe
+H:\Desktop\CS2530\Card\Card\bin\Debug\Card.pdb
+H:\Desktop\CS2530\Card\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+H:\Desktop\CS2530\Card\Card\obj\Debug\Card.exe
+H:\Desktop\CS2530\Card\Card\obj\Debug\Card.pdb
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\Card\Card\bin\Debug\Card.exe
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\Card\Card\bin\Debug\Card.exe.config
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\Card\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\Card\Card\obj\Debug\Card.exe
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\Card\Card\obj\Debug\Card.pdb
+\\smb\student$\A_B\jbehun13\Desktop\CS2530\Card\Card\bin\Debug\Card.pdb
+H:\My Documents\Visual Studio 2012\Projects\CS2530\Card\Card\bin\Debug\Card.exe.config
+H:\My Documents\Visual Studio 2012\Projects\CS2530\Card\Card\obj\Debug\Card.exe
+H:\My Documents\Visual Studio 2012\Projects\CS2530\Card\Card\obj\Debug\Card.pdb
+H:\My Documents\Visual Studio 2012\Projects\CS2530\Card\Card\bin\Debug\Card.exe
+H:\My Documents\Visual Studio 2012\Projects\CS2530\Card\Card\bin\Debug\Card.pdb
+H:\My Documents\Visual Studio 2012\Projects\CS2530\Card\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\Card\Card\bin\Debug\Card.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\Card\Card\obj\Debug\Card.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\Card\Card\obj\Debug\Card.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\labs\Card\Card\bin\Debug\Card.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\labs\Card\Card\obj\Debug\Card.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\labs\Card\Card\obj\Debug\Card.pdb

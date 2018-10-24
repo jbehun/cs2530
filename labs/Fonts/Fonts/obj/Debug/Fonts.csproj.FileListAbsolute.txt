@@ -1,0 +1,13 @@
+H:\Desktop\CS2530\Fonts\Fonts\bin\Debug\Fonts.exe.config
+H:\Desktop\CS2530\Fonts\Fonts\bin\Debug\Fonts.exe
+H:\Desktop\CS2530\Fonts\Fonts\bin\Debug\Fonts.pdb
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts.csprojResolveAssemblyReference.cache
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\MainWindow.baml
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\MainWindow.g.cs
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\App.g.cs
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts_MarkupCompile.cache
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts.g.resources
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts.Properties.Resources.resources
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts.csproj.GenerateResource.Cache
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts.exe
+H:\Desktop\CS2530\Fonts\Fonts\obj\Debug\Fonts.pdb

@@ -1,0 +1,24 @@
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL.csprojResolveAssemblyReference.cache
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\MainWindow.baml
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\MainWindow.g.cs
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\App.g.cs
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL_MarkupCompile.cache
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL.g.resources
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL.Properties.Resources.resources
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL.csproj.GenerateResource.Cache
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\bin\Debug\LabTPL.exe
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\bin\Debug\LabTPL.pdb
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL.exe
+H:\CSIS_2530 Spring 2015\_TODAY\LabTPL\LabTPL\obj\Debug\LabTPL.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\bin\Debug\LabTPL.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\bin\Debug\LabTPL.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\MainWindow.baml
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\MainWindow.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\App.g.cs
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL_MarkupCompile.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL.g.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL.Properties.Resources.resources
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\labs\LabTPL\LabTPL\obj\Debug\LabTPL.csproj.GenerateResource.Cache

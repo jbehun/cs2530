@@ -1,0 +1,5 @@
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\Cards\Cards\bin\Release\Cards.exe.config
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\Cards\Cards\bin\Release\Cards.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\Cards\Cards\bin\Release\Cards.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\Cards\Cards\obj\Release\Cards.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS\CSIS 2530\assignments\Cards\Cards\obj\Release\Cards.pdb

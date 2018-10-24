@@ -1,0 +1,5 @@
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\TruthTAble\TruthTAble\bin\Debug\TruthTAble.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\TruthTAble\TruthTAble\bin\Debug\TruthTAble.pdb
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\TruthTAble\TruthTAble\obj\Debug\TruthTAble.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\TruthTAble\TruthTAble\obj\Debug\TruthTAble.exe
+C:\Users\Justin\Google Drive\Course Work\CSIS 2530\assignments\TruthTAble\TruthTAble\obj\Debug\TruthTAble.pdb
